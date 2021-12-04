@@ -21,4 +21,4 @@ Always take a backup of your `db/data.sqlite` file before updating the bot.
 * [📌 Release notes](CHANGELOG.md)
 
 ## Support
-If you need help with setting up the bot or would like to discuss other things related to it, message The Unstoppable Guy#1563 in Discord.
+If you need help with setting up the bot or would like to discuss other things related to it, message Extreme Gamer#1563 in Discord.
